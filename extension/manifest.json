@@ -1,14 +1,14 @@
 {
     "manifest_version": 2,
     "name": "Frame by Frame for YouTube™",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Watch YouTube™ videos frame by frame",
     "icons": {
         "16": "icon-16.png",
         "48": "icon-48.png",
         "128": "icon-128.png"
     },
-    "author": "Calum J. Eadie, regularWand and Tom D. Chambers",
+    "author": "Calum Eadie, regularWand and Tom D. Chambers",
     "content_scripts": [
         {
             "matches": ["http://www.youtube.com/watch*", "https://www.youtube.com/watch*"],

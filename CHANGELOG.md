@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## [1.2.0] - 2018-09-05
+
+### Removed
+
+- Removed keyboard driven features for the moment as difficult to ensure searching / commenting don't interfere with Frame by Frame.
+
 ## [1.1.0] - 2015-12-29
 
 ### Added
@@ -11,7 +17,7 @@
     - Ability to seek by current frameskip when the cursor is in the left (reverse) or right (forward) half of the window.
     - Ability to toggle between minimum (1/4) and normal playback speed using **P**.
     - Ability to toggle between frame-by-frame skipping for 30 and 25/24 fps video (default 25 fps) using **O**.
-    - Ability to toggle visibility of youtube player controls using **\**.
+    - Ability to toggle visibility of youtube player controls using **\***.
 
 ## [1.0.0] - 2015-11-12
 
