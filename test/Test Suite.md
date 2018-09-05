@@ -61,28 +61,7 @@ Check UI appears
 
 - Back one frameskip
 - Forward one frameskip
-- FPS
-- Frameskip
-- Help
 
 Check "back one frameskip".
 
 Check "forward one frameskip".
-
-Check FPS changes when use o.
-
-Check Frameskip changes when use < and >.
-
-## Test - Keyboard Driven UX
-
-Check [ goes back by one frameskip.
-
-Check ] goes forward by one frameskip.
-
-Check < decreases frameskip by x2.
-
-Check < increases frameskip by x2.
-
-Check p toggles between 1/4 and normal play back.
-
-Check o toggles between frame skipping for 25 and 30 fps video.

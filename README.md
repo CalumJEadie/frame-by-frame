@@ -7,46 +7,12 @@ Google Chrome Extension to add frame by frame playback to YouTube.
 
 !["Screenshot"](screenshots/screenshot-1.png)
 
-Created by Calum J. Eadie (http://calumjeadie.com), regularWand (https://github.com/regularWand) and Tom D. Chambers (http://tomchambers.me).
+Created by Calum Eadie (http://calumjeadie.com), regularWand (https://github.com/regularWand) and Tom D. Chambers (http://tomchambers.me).
 
 Installation
 ------------
 
 https://chrome.google.com/webstore/detail/frame-by-frame/elkadbdicdciddfkdpmaolomehalghio
-
-Usage
------
-
-<table>
-  <tr>
-    <th>Hotkey</th>
-    <th>Action</th>
-  </tr>
-  <tr>
-    <td><strong>[</strong> or <strong>]</strong></td>
-    <td>Seeks by current frameskip (default 1) in reverse or forward respectively</td>
-  </tr>
-  <tr>
-    <td><strong>Shift</strong> + <strong>Mousewheel Up</strong></td>
-    <td>Seeks by current frameskip when the cursor is in the left (reverse) or right (forward) half of the window</td>
-  </tr>
-  <tr>
-    <td><strong><</strong> and  <strong>></strong></td>
-    <td>Decrease or increase frameskip by a factor of 2 respectively</td>
-  </tr>
-  <tr>
-    <td><strong>P</strong></td>
-    <td>Toggles between minimum (1/4) and normal playback speed</td>
-  </tr>
-  <tr>
-    <td><strong>O</strong></td>
-    <td>Toggles between frame-by-frame skipping for 30 and 25/24 fps video (default 25 fps)</td>
-  </tr>
-    <tr>
-    <td><strong>\</strong></td>
-    <td>Toggles visibility of youtube player controls</td>
-  </tr>
-</table>
 
 How it works
 ------------
